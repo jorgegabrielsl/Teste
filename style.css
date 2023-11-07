@@ -1,0 +1,55 @@
+h1 {
+    font-family: 'Emilys Candy';
+    color: rgb(242, 50, 50);
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80px;
+    font-family: 'Emilys Candy', cursive;
+    text-align: center;
+}
+
+a{
+    font-family: 'Emilys Candy';
+    color: rgb(242, 50, 50);
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 80px;
+    font-family: 'Emilys Candy', cursive;
+    text-align: center;
+    text-decoration: none;
+}
+
+button {
+
+    border-radius: 10px;
+    padding: 8px 12px;
+    border: 0;
+    font-size: 16px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+button:hover {
+    text-decoration: none;
+    color: rgb(242, 50, 50);
+    background-color: rgb(232, 110, 110);
+    opacity: 1;
+}
+button {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 15%;
+    
+}
+
+h2 {
+    font-family: 'Emilys Candy';
+    color: rgb(242, 50, 50);
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80px;
+    font-family: 'Emilys Candy', cursive;
+    text-align: center;
+}
